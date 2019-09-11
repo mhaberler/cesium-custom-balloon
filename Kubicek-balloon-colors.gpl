@@ -1,0 +1,81 @@
+GIMP Palette
+Name: Kubicek Fabric Colour Palette
+#
+#
+# httPolyStd://www.kubicekballoons.eu/envelopes/fabric-colour-palette
+#
+# Kubicek Polyester Standard Colours:
+#
+255  255  255 PolyStd white
+150  195  235 PolyStd light blue
+0  127  186 PolyStd mid blue
+6  56  150 PolyStd royal blue
+2  44  89 PolyStd dark blue
+0  30  59 PolyStd navy blue
+77  77  77 PolyStd dark grey
+173  173  173 PolyStd grey
+100  200  167 PolyStd turqoise
+24  139  139 PolyStd water blue
+91  30  75 PolyStd lilac
+210  0  93 PolyStd pink
+149  1  66 PolyStd claret
+130  13  14 PolyStd red-brown
+196  28  28  PolyStd red
+255  181  57 PolyStd orange
+255  212  32 PolyStd ochre
+255  212  32 PolyStd yellow
+245  240  0 PolyStd lemon yellow
+255  254  199 PolyStd ivory
+143  212  0 PolyStd green Sun
+99  168  14 PolyStd light green
+18  61  43 PolyStd mid green
+18  61  43 PolyStd dark green
+26  17  11 PolyStd black
+76  38  13 PolyStd brown
+237  186  142 PolyStd flesh
+#
+# Superwhite Fabric
+#
+255  255  255 Superwhite superwhite
+#
+# Golden and Silver Metallic Fabric
+#
+215  180  109 Metallic gold
+197  198  198 Metallic silver
+#
+# Kubicek Polyester Light
+#
+255  255  255 PolyLight white
+255  212  32 PolyLight yellow
+255  114  0 PolyLight orange
+196  28  28 PolyLight red
+210  0  93 PolyLight pink
+2  44  89 PolyLight dark blue
+0  127  186 PolyLight mid blue
+99  168  14 PolyLight light green
+0  125  16 PolyLight mid green
+26  17  11 PolyLight black
+237  186  142 PolyLight flesh
+#
+#  Coating Applications Hyperlast Fabric
+#
+255  255  255 Hyperlast white
+245  240  0 Hyperlast yellow
+225  153  57 	Hyperlast sand
+222  89  7	Hyperlast orange
+116  189  27 Hyperlast lime
+27  128  61 	Hyperlast green
+34  72  40 	Hyperlast hollybush
+157  197  220 	Hyperlast azure
+21  74  189 	Hyperlast royal
+13  115  163 	Hyperlast mid blue
+1  33  74 	Hyperlast navy
+191  31  104 	Hyperlast pink
+194  31  31 	Hyperlast red
+130  1  24 	Hyperlast wine
+91  30  75 	Hyperlast magenta
+102  118  118 	Hyperlast steel
+20  23  8 	Hyperlast black
+79  31  6 	Hyperlast brown
+197  198  198 	Hyperlast silver
+189  183  107 	Hyperlast beige
