@@ -1,0 +1,106 @@
+newmtl Material__1
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.992157 0.992157 0.992157
+Ks 0.501961 0.501961 0.501961
+Km 0.00216
+map_Kd ./Maps/ArchM_73_09_diff.jpg
+map_Bump ./Maps/ArchM_73_09_Bamp.jpg
+
+newmtl Material__4
+d 1
+Ns 0.983333
+Ni 0
+Ka 0 0 0
+Kd 0.654902 0.694118 0.737255
+Ks 1 1 1
+Km 0.02
+
+newmtl Material__3
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.956863 0.956863 0.956863
+Km 0.02
+
+newmtl Material__5
+d 0
+Ns 0.983333
+Ni 0
+Ka 0 0 0
+Kd 0.392157 0.392157 0.392157
+Ks 1 1 1
+Km 0.02
+map_refl ./Maps/GlassEnvironmentMap.jpg
+
+newmtl Material__9
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.992157 0.992157 0.992157
+Ks 0.392157 0.392157 0.392157
+Km 0.00048
+map_Kd ./Maps/ArchM_73_13_Skin_diff.jpg
+map_Bump ./Maps/ArchM_73_13_Skin_diff.jpg
+
+newmtl Material__7
+d 1
+Ns 0.98
+Ni 0
+Ka 0.137255 0.0666667 0
+Kd 0.184314 0.184314 0.184314
+Ks 0.384314 0.384314 0.384314
+Km 0.0001
+
+newmtl Material__0
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.454902 0.537255 0.576471
+Ks 1 1 1
+Km 0.003
+
+newmtl Material__6
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.294118 0.337255 0.364706
+Ks 0.682353 0.682353 0.682353
+Km 0.02
+
+newmtl Material__2
+d 0.5
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0 0 0.501961
+Ks 1 0.968627 0.968627
+Km 0.02
+
+newmtl Material__10
+d 1
+Ns 0.983333
+Ni 0
+Ka 0 0 0
+Kd 0.556863 0.556863 0.556863
+Ks 0.956863 0.956863 0.956863
+Km 0.02
+
+newmtl Material__8
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.992157 0.992157 0.992157
+Ks 0.501961 0.501961 0.501961
+Km 0.00216
+map_Kd ./Maps/ArchM_73_09_diff.jpg
+map_Bump ./Maps/ArchM_73_09_Bamp.jpg
+
